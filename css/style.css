@@ -23,7 +23,7 @@
 
 .barnav1:hover{
   transition: 250ms;
-  background-image: linear-gradient(to right top, #c3e8ff, #c1e8ff, #c0e8ff, #bee8ff, #bce8ff, #b9eaff, #b6ecff, #b4eeff, #b1f2ff, #aef7ff, #adfbfd, #aefffa);
+  background-image: linear-gradient(to right top, #c3e8ff, #beedff, #baf1ff, #b8f6ff, #b7fafc, #b7fcfa, #b6fdf8, #b7fff6, #b5fff7, #b3fff8, #b0fff9, #aefffa);
   border-bottom: 5px solid #0191ff;
 }
 
